@@ -1,4 +1,4 @@
-import { Button }from "../components/ui/Button"
+import { Button } from "@/components/ui/button"
 import { useUser } from "@clerk/clerk-react"
 import { useNavigate } from "react-router-dom"
 import { BarLoader } from "react-spinners"
